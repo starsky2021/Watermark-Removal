@@ -43,9 +43,9 @@ __Evaluation of discriminator__
 __Comparison with state-of-the-art__
 
 
-
+<!-- 
 ## Authors
-K.H.W. Stolle, Xiao. Liu
+K.H.W. Stolle, Xiao. Liu -->
 
 
 
